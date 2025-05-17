@@ -1,0 +1,6 @@
+nohup: ignoring input
+SET
+SET
+ALTER TABLE
+ALTER TABLE
+psql:/tmp/db/services/pg_normalized_batch/schema-indexes.sql:16: ERROR:  column "tag" does not exist
